@@ -1,0 +1,16 @@
+INÍCIO ALGORITMO
+    abro os olho
+    levanto da cama
+    vou até o banheiro
+    escovo os dentes, e faço as necessidades
+    desço até a cozinha
+    pego uma chaleira
+    coloco água na chaleira
+    cologo no fogão e ligo
+    coloco o pó de café no coador
+    depois que a água ferveu, eu passo o café
+    pego uma xícara
+    coloco café na xícara
+    coloco açucar
+    bebo o café
+FIM ALGORITMO
